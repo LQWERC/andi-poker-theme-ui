@@ -1,15 +1,19 @@
 {
-  "name": "andi-poker-theme-ui",
-  "theme": "ui",
+  "name": "andi-master-maps",
+  "main": "./lib/andi",
   "version": "0.1.0",
-  "description": "A Poker Theme",
+  "description": "andi",
   "keywords": [
-    "ui",
-    "theme"
+    "andi",
+    "andi ค่าสิโนออนไลน์บนมือถือ"
   ],
-  "repository": "https://github.com/LQWERC/andi-poker-theme-ui.git",
+  "activationCommands": {
+    "atom-workspace": "andi:toggle"
+  },
+  "repository": "https://github.com/LQWERC/andi-poker-theme-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  }
+  },
+  "dependencies": {}
 }
