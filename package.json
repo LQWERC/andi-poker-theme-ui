@@ -1,11 +1,11 @@
 {
-  "name": "andi-master-maps",
+  "name": "andi-master-key",
   "main": "./lib/andi",
-  "version": "0.4.0",
+  "version": "0.0.0",
   "description": "andi",
   "keywords": [
     "andi",
-    "andi ค่าสิโนออนไลน์บนมือถือ"
+    "andi masterkey"
   ],
   "activationCommands": {
     "atom-workspace": "andi:toggle"
